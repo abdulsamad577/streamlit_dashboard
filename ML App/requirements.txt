@@ -1,5 +1,5 @@
 matplotlib==3.9.2
-numpy==2.1.0
+numpy==2.0.0
 pandas==2.2.2
 Pillow==10.4.0
 scikit_learn==1.5.1
