@@ -113,8 +113,8 @@ st.pyplot(fig)
 
 st.write("---")
 
-st.write("### Ab agr ap song ko enjoy krna chahty hn tu yeh sunein:")
-audio1=open("Bahut Pyaar Karte Hai.mp3",'rb')
+st.write("### If you want to Enjoy a Song!:")
+audio1=open("ML_App/Bahut Pyaar Karte Hai.mp3",'rb')
 st.audio(audio1)
 
 st.write("---")
