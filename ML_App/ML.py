@@ -15,7 +15,7 @@ from sklearn.decomposition import PCA
 #Heading...
 st.header("Welcome to Data Scientist, Samad Platform!")
 st.write("---")
-image1=Image.open("/ML_App/pic.jpg")
+image1=Image.open("ML_App/pic.jpg")
 st.image(image1)
 
 st.write("---")
